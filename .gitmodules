@@ -1,0 +1,3 @@
+[submodule "deleteme.wiki"]
+	path = deleteme.wiki
+	url = git://github.com/mattstark/deleteme.wiki
